@@ -1,0 +1,12 @@
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\bin\Debug\netstandard2.0\ConsultarCEP.deps.json
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\bin\Debug\netstandard2.0\ConsultarCEP.dll
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\bin\Debug\netstandard2.0\ConsultarCEP.pdb
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.csproj.CoreCompileInputs.cache
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.AssemblyInfoInputs.cache
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.AssemblyInfo.cs
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.dll
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.pdb
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bunker01\source\repos\ConsultarCEP\ConsultarCEP\ConsultarCEP\obj\Debug\netstandard2.0\ConsultarCEP.csprojAssemblyReference.cache
