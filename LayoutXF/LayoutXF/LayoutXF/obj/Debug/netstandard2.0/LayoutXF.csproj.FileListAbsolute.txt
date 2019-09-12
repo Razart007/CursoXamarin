@@ -1,0 +1,17 @@
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\bin\Debug\netstandard2.0\LayoutXF.deps.json
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\bin\Debug\netstandard2.0\LayoutXF.dll
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\bin\Debug\netstandard2.0\LayoutXF.pdb
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\LayoutXF.csprojAssemblyReference.cache
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\Layouts\Absolute\AbsolutePage.xaml.g.cs
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\Layouts\Grid\GridPage.xaml.g.cs
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\Layouts\Relative\RelativePage.xaml.g.cs
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\Layouts\Scroll\ScrollPage.xaml.g.cs
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\Layouts\Stack\StackPage.xaml.g.cs
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\LayoutXF.csproj.CoreCompileInputs.cache
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\LayoutXF.AssemblyInfoInputs.cache
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\LayoutXF.AssemblyInfo.cs
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\LayoutXF.dll
+C:\Users\Bunker01\source\repos\LayoutXF\LayoutXF\LayoutXF\obj\Debug\netstandard2.0\LayoutXF.pdb
