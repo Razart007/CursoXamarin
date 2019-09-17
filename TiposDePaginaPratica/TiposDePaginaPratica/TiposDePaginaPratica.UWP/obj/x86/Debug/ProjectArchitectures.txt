@@ -1,0 +1,1 @@
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica.UWP\TiposDePaginaPratica.UWP.csproj;x86

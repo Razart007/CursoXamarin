@@ -1,0 +1,1 @@
+C:\Users\Bunker01\source\repos\TiposDePaginas\TiposDePaginas\TiposDePaginas.UWP\TiposDePaginas.UWP.csproj;x86

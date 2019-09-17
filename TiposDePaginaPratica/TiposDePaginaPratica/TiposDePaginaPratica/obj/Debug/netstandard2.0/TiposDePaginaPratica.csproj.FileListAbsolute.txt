@@ -1,0 +1,15 @@
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\TiposDePaginaPratica.csprojAssemblyReference.cache
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\Master\Menu.xaml.g.cs
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\Pages\Perfil1.xaml.g.cs
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\Pages\Xamarin.xaml.g.cs
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\TiposDePaginaPratica.csproj.CoreCompileInputs.cache
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\TiposDePaginaPratica.AssemblyInfoInputs.cache
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\TiposDePaginaPratica.AssemblyInfo.cs
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\bin\Debug\netstandard2.0\TiposDePaginaPratica.deps.json
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\bin\Debug\netstandard2.0\TiposDePaginaPratica.dll
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\bin\Debug\netstandard2.0\TiposDePaginaPratica.pdb
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\TiposDePaginaPratica.dll
+C:\Users\Bunker01\source\repos\TiposDePaginaPratica\TiposDePaginaPratica\TiposDePaginaPratica\obj\Debug\netstandard2.0\TiposDePaginaPratica.pdb
